@@ -1,4 +1,3 @@
-// Controllers/LikeControllerTests.cs
 using Xunit;
 using Moq;
 using Microsoft.EntityFrameworkCore;
