@@ -57,7 +57,11 @@ Error Handling: Validates responses for non-existent "Like" button IDs.
 
 Run the tests with the following command:
 dotnet test
+//////
 
+Here is the endpoint deployed:
+GET https://sosa.bsite.net/api/Like/1/likes - to get the likes
+POST https://sosa.bsite.net/api/Like/1/likes to increase the likes
 
 ADDITIONAL INFORMATION
 1.  How would the client-side, and server-side + database be structured?
