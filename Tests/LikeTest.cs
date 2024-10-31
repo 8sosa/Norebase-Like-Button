@@ -66,6 +66,7 @@ public class LikeControllerTests : IDisposable
 
         // Verify database update
         var likeButton = await _context.LikeButtons.FindAsync(1);
+        Assert.NotNull(likeButton); // Check that the button exists
         Assert.Equal(1, likeButton.Likes);
     }
 

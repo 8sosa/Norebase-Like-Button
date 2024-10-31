@@ -251,3 +251,4 @@
 /Users/bigsosa/Desktop/Norebase/norebase backend challenge/LikeButtonApp/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/bigsosa/Desktop/Norebase/norebase backend challenge/LikeButtonApp/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
 /Users/bigsosa/Desktop/Norebase/norebase backend challenge/LikeButtonApp/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/bigsosa/Desktop/Norebase/norebase backend challenge/LikeButtonApp/obj/Debug/net8.0/LikeButtonApp.sourcelink.json
